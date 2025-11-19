@@ -1,4 +1,6 @@
-# What Containers Are
+# Intro To Containers 
+
+## What Containers Are
 
 - Containers are lightweight packages that include an app and everything it needs to run.
 - They keep the app’s code, libraries, and settings together in one place.
@@ -6,10 +8,10 @@
 - Each container is isolated, so one app can’t affect another.
 
 ## How Containers Work
-- Infrastructure: physical/virtual hardware (your laptop/server).
-- Host OS: operating system running on the infrastructure.
-- Docker Engine: enables building, running, and managing containers.
-- Containers: Small isolated environments that run your apps, depending on the docker engine to function.
+- **Infrastructure**: physical/virtual hardware (your laptop/server).
+- **Host OS**: operating system running on the infrastructure.
+- **Docker Engine**: enables building, running, and managing containers.
+- **Containers**: Small isolated environments that run your apps, depending on the docker engine to function.
 
 ## Why Containers Are Efficient
 - They share the host OS, making them lighter and much faster to start
