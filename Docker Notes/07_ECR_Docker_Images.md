@@ -7,6 +7,7 @@
 ## How To Use ECR
 
 **1.** Create an ECR Repository
+
 **2.** Retrieve Push Commands
 **3.** Authenticate Docker to AWS ECR using commands on the website 
 **4.** Build Your Docker Image
