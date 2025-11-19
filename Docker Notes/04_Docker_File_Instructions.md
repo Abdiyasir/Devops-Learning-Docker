@@ -1,6 +1,4 @@
 # Docker File Instructions
-- Docker file is a text file with instructions for building a Docker image
-- Each instruction = a layer in the image
 
 1. **FROM**
 - Sets the base image
