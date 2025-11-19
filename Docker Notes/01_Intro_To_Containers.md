@@ -1,4 +1,4 @@
-# Intro To Containers 
+# Introduction To Containers 
 
 ## What Containers Are
 
