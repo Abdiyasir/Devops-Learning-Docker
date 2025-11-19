@@ -12,7 +12,6 @@
 | `docker inspect <image-id>` | Shows detailed metadata about an image. |
 | `docker rmi <image-id>` | Deletes a local Docker image. |
 | `docker system prune` | Cleans unused containers, images, networks, and cache. |
-| `docker run hello-world` | Runs the Hello World test image to verify Docker works. |
 | `docker ps` | Shows running containers. |
 | `docker ps -a` | Shows all containers (running + stopped). |
 | `docker build -t <image-name> .` | Builds a Docker image from a Dockerfile in the current directory. |
@@ -28,5 +27,6 @@
 | `docker-compose down` | Stops and removes all services from docker-compose.yml. |
 | `docker build -t <username>/<repo>:v1 .` | Builds an image and tags it for pushing to Docker Hub or ECR. |
 | `docker pull <username>/<repo>:v1` | Pulls an image from a container registry. |
+
 
 
