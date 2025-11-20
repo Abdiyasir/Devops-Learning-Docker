@@ -3,7 +3,7 @@
 
 
 
-
+## Common Commands
 | Command | Description |
 |--------|-------------|
 | `docker --version` | Shows the installed Docker version. |
@@ -27,6 +27,7 @@
 | `docker-compose down` | Stops and removes all services from docker-compose.yml. |
 | `docker build -t <username>/<repo>:v1 .` | Builds an image and tags it for pushing to Docker Hub or ECR. |
 | `docker pull <username>/<repo>:v1` | Pulls an image from a container registry. |
+
 
 
 
